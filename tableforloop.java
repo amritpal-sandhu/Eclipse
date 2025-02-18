@@ -11,7 +11,7 @@ public class tableforloop {
         int i;
         for( i=1;i <= 10;i++){
             System.out.println("2"+"*"+i+"="+table*i);
-        }
+        }sc.close();
     }
     
 }

@@ -13,6 +13,7 @@ public class forloopeg {
             n = n+i;
         }
         System.err.println(n); 
+        sc.close();
     }
     
 }
