@@ -1,4 +1,4 @@
-#basic code
+#$#basic code
 package loops.homework.looops;
 
 public class prime {
